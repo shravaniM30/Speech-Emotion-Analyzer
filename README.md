@@ -231,11 +231,11 @@ The model successfully classifies emotions using **MFCC features** and **Random 
 
 ---
 
-## 👩‍💻 Author
+<!-- ## 👩‍💻 Author
 
 **Shravani Nagesh Mhetre**
 
-*Machine Learning | Audio Processing | Speech Emotion Recognition*
+*Machine Learning | Audio Processing | Speech Emotion Recognition* -->
 
 ---
 
